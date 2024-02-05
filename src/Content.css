@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+img {
+  height: 50vh;
+  width: 50vh;
+  border-radius: 50%;
+  float: right;
+  position: relative;
+  right: 5vh;
+  top: 10vh;
+}
+.profile {
+  display: flex;
+}
+.Introduction {
+  position: relative;
+  top: 20vh;
+  float: left;
+  width: 50vh;
+  margin-right: 10vh;
+}
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}

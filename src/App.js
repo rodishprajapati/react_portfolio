@@ -1,25 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  //react fragment -works like a div
+  /*only one tag is allowed so we create a div and edit inside the div
+  but in react we use react fragment which also works as empty div*/
+  return <>app component</>;
 }
-
 export default App;

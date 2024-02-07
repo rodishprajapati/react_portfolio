@@ -29,6 +29,7 @@ function Contact() {
                 <a href="#">facebook</a>
                 <a href="#">instagram</a>
                 <a href="#">linkedin</a>
+                <a href="#">git</a>
               </ol>
             </div>
           </div>

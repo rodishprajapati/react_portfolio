@@ -1,5 +1,5 @@
 import "./Contact.css";
-function Contact() {
+function Contactt() {
   return (
     <>
       <div className="Contact">
@@ -38,4 +38,4 @@ function Contact() {
     </>
   );
 }
-export default Contact;
+export default Contactt;

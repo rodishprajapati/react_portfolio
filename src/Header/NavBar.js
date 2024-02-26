@@ -10,7 +10,7 @@ function Nav() {
               <a href="#">Home</a>
             </li>
             <li>
-              <a href="#">Services</a>
+              <a href="#">Projects</a>
             </li>
             <li>
               <a href="#">Contact</a>

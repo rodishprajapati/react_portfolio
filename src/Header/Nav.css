@@ -13,6 +13,9 @@
 }
 .NavItem {
   float: right;
+  font-size: 20px;
+  margin-top: -10px;
+  margin-right: 15px;
 }
 li,
 a {
